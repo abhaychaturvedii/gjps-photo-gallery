@@ -16,6 +16,21 @@
     border-bottom: 4px solid #fdb347;
   
   }
+.header img, .header h1{
+
+display: inline-block;
+
+vertical-align: middle;
+
+margin: 5px 30px;
+
+}
+  .name {
+    max-width: 100px;
+    display: block;
+    margin: auto;
+}
+
   footer {
     background-color: #0a0a23;
     color: #fff;
