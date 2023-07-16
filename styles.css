@@ -11,6 +11,15 @@
     text-align: center;
     text-transform: uppercase;
     padding: 32px;
+    background: white;
+    color: black;
+    border-bottom: 4px solid #da1a47;
+  
+  }
+  .header-Kushinagar{
+    text-align: center;
+    text-transform: uppercase;
+    padding: 32px;
     background: #0a0a23;
     color: #fff;
     border-bottom: 4px solid #fdb347;
@@ -26,7 +35,7 @@ margin: 5px 30px;
 
 }
   .name {
-    max-width: 100px;
+    max-width: 80px;
     display: block;
     margin: auto;
 }
